@@ -1,4 +1,4 @@
-# README: Automated File Processing for Spanish Language Analysis
+# Automated File Processing for Spanish Language Analysis
 
 ## Overview
 This project automates the process of copying, converting, analyzing, and processing media files across multiple directories. The workflow includes file copying, audio extraction, language detection, logging, and automated email notifications.
